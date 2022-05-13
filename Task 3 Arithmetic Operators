@@ -1,0 +1,12 @@
+if __name__ == '__main__':
+    a = int(raw_input())
+    b = int(raw_input())
+    
+    #Arithmetic Operators:
+    
+    Add=a+b
+    Subtract=a-b
+    Multiplication=a*b
+    print(Add)
+    print(Subtract)
+    print(Multiplication)
